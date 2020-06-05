@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="plus-pixel__7x7--c" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 7 7" style="enable-background:new 0 0 7 7;" xml:space="preserve">
+
+<style type="text/css">
+	/*
+	Classes Used by IE and MSEdge with Mono Parent Color Fallback for IE
+	Chrome, Chromium Edge, and Firefox use the 'fill' Attributes Over the Classes
+	==============================================================================  */
+	.plus-pixel__7x7--color1{
+		fill: currentColor;
+		fill: var(--color-1, currentColor);
+	}
+</style>
+<path class="plus-pixel__7x7--color1" fill="var(--color-1, currentColor)" d="M3,0h1v7H3V0z"/>
+<path class="plus-pixel__7x7--color1" fill="var(--color-1, currentColor)" d="M0,4V3h7v1H0z"/>
+</svg>

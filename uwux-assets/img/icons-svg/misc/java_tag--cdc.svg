@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="java_tag--cdc" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 31 14.3"
+	 style="enable-background:new 0 0 31 14.3;" xml:space="preserve">
+
+<style type="text/css">
+	/*
+	Classes Used by IE and MSEdge with Mono Parent Color Fallback for IE
+	Chrome, Chromium Edge, and Firefox use the 'fill' Attributes Over the Classes
+	==============================================================================  */
+	.java_tag_Inner_BG{
+		fill-rule:evenodd;
+		clip-rule:evenodd;
+		fill:#AAAAAA;
+		fill: var(--color-inner_bg, #AAAAAA);
+	}
+	.java_tag_Base{
+		fill-rule:evenodd;
+		clip-rule:evenodd;
+		fill: currentColor;
+		fill: var(--color-stroke, currentColor);
+	}
+</style>
+<g id="JavaTagIcon">
+	<path id="Inner_BG" class="java_tag_Inner_BG" fill-rule="evenodd" clip-rule="evenodd" fill="var(--color-inner_bg, #AAAAAA)" d="M4.4,1.2C2.8,1.2,1.5,2.5,1.5,4v6.4c0,1.5,1.3,2.8,2.9,2.8h22.2c1.6,0,2.9-1.2,2.9-2.8V4
+		c0-1.5-1.3-2.8-2.9-2.8H4.4L4.4,1.2z"/>
+	<path class="java_tag_Base" fill="var(--color-stroke, currentColor)" fill-rule="evenodd" clip-rule="evenodd" d="M27,0.7H4c-1.7,0-3,1.3-3,3v7c0,1.7,1.3,3,3,3h23c1.7,0,3-1.3,3-3v-7C30,2,28.6,0.7,27,0.7z M29,10.7
+		c0,1.1-0.9,2-2,2H4c-1.1,0-2-0.9-2-2v-7c0-1.1,0.9-2,2-2h23c1.1,0,2,0.9,2,2V10.7z"/>
+	<path id="A_1_" class="java_tag_Base" fill="var(--color-stroke, currentColor)" fill-rule="evenodd" clip-rule="evenodd" d="M25,3.7h-1c-1.1,0-2,0.9-2,2v1.5v3.5h1v-3h3v3h1v-3v-2C27,4.6,26.1,3.7,25,3.7z M26,6.7h-3v-1
+		c0-0.6,0.4-1,1-1h1c0.6,0,1,0.4,1,1V6.7z"/>
+	<polygon id="V" class="java_tag_Base" fill="var(--color-stroke, currentColor)" points="18.5,8.9 20,3.7 21,3.7 19,10.7 18.5,10.7 18,10.7 16,3.7 17,3.7 18.5,8.9 "/>
+	<path id="A" class="java_tag_Base" fill="var(--color-stroke, currentColor)" fill-rule="evenodd" clip-rule="evenodd" d="M13,3.7h-1c-1.1,0-2,0.9-2,2v1.5v3.5h1v-3h3v3h1v-3v-2C15,4.6,14.1,3.7,13,3.7z M14,6.7h-3v-1
+		c0-0.6,0.4-1,1-1h1c0.6,0,1,0.4,1,1V6.7z"/>
+	<path id="J" class="java_tag_Base" fill="var(--color-stroke, currentColor)" d="M4,7.7v1c0,1.1,0.9,2,2,2h1c1.1,0,2-0.9,2-2v-5H8v5c0,0.5-0.4,1-1,1H6c-0.6,0-1-0.4-1-1v-1H4L4,7.7z"/>
+</g>
+</svg>

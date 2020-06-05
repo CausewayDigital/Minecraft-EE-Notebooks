@@ -1,0 +1,8 @@
+{
+  "short_name": "Python IDE",
+  "name": "Minecraft Python Playground",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

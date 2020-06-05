@@ -1,0 +1,10 @@
+{
+  "language_type": "python",
+  "course_id": "Mojang.Hoc.101.1",
+  "lesson_id": "CollectGlass",
+  "title": "Babs Collect Glass",
+  "description": "Babs needs some help",
+  "no_quiz_complete": true,
+  "creatorName": "Minecraft",
+  "pages": ["babs_glass"]
+}

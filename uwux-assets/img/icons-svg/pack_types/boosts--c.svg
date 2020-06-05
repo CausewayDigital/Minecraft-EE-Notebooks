@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="boosts--c" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+
+<style type="text/css">
+	/*
+	Classes Used by IE and MSEdge with Mono Parent Color Fallback for IE
+	Chrome, Chromium Edge, and Firefox use the 'fill' Attributes Over the Classes
+	==============================================================================  */
+	.boosts--color1{
+		fill: currentColor;
+		fill: var(--color-1, currentColor);
+	}
+	.boosts-bottle-opacity{opacity:1.0;}
+	.boosts-cork-opacity{opacity:0.5;}
+	.boosts-plus-opacity{opacity:0.5;}
+</style>
+
+<g class="boosts--color1" fill="var(--color-1, currentColor)" >
+	<path id="cork_top" class="boosts-cork-opacity" opacity="0.5" d="M125.8,8.2H74.2v11.1h51.7L125.8,8.2L125.8,8.2z"/>
+	<path id="cork_bottom" class="boosts-cork-opacity" opacity="0.5" d="M125.8,28.5H72.3v11.1h53.5V28.5z"/>
+	<polygon id="plus" class="boosts-plus-opacity" opacity="0.5" points="122.1,128.1 105.5,128.1 105.5,111.5 94.5,111.5 94.5,128.1 77.9,128.1 77.9,139.2
+		94.5,139.2 94.5,155.8 105.5,155.8 105.5,139.2 122.1,139.2 "/>
+	<path class="boosts-bottle-opacity" opacity="1.0" d="M103.2,196.7c-23.2,0-45.9-11.4-67.6-34c-1.1-1.1-1.7-2.6-1.7-4.2v-44.3c0-1.6,0.6-3.2,1.8-4.3l42.5-41.6V57.6l-12.9-8.3
+		c-1.7-1.1-2.8-3-2.8-5V23.9c0-3.3,2.7-6,6-6h61.8c3.3,0,6,2.7,6,6v20.3c0,2-1,3.8-2.6,5l-12.2,8.3v11l42.5,41.6
+		c1.2,1.1,1.8,2.7,1.8,4.3v47c0,1.3-0.4,2.6-1.2,3.6c-10.8,14.3-31.5,30.1-57.3,31.6C106,196.7,104.6,196.7,103.2,196.7z M46,156.2
+		c19.9,20.1,40.3,29.7,60.7,28.5c20.7-1.2,37.7-13.6,47.2-25.3v-42.4l-42.5-41.6c-1.2-1.1-1.8-2.7-1.8-4.3V54.3c0-2,1-3.8,2.6-5
+		l12.2-8.3V29.9H74.6v11l12.9,8.3c1.7,1.1,2.8,3,2.8,5v16.6c0,1.6-0.6,3.2-1.8,4.3L46,116.8V156.2z"/>
+</g>
+</svg>

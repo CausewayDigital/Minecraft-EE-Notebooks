@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="push_notification--c" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 227.9 227.9" style="enable-background:new 0 0 227.9 227.9;" xml:space="preserve">
+
+<style type="text/css">
+	/*
+	Classes Used by IE and MSEdge with Mono Parent Color Fallback for IE
+	Chrome, Chromium Edge, and Firefox use the 'fill' Attributes Over the Classes
+	==============================================================================  */
+	.push_notification--color1{
+		fill: currentColor;
+		fill: var(--color-1, currentColor);
+	}
+
+	.push_notification--color2{
+		fill: #FFFFFF;
+		fill: var(--color-2, #FFFFFF);
+	}
+</style>
+<path id="Push" class="push_notification--color1" fill="var(--color-1, currentColor)" d="M113.9,227.9c47.9,0,86.9-39,86.9-86.9c0-25.9-16.9-62.4-32.7-87.9c-15.8-25.6-38.4-53-54.2-53
+	C98.6,0,76,27.4,60.1,53C44.1,78.6,27,115.2,27,140.9C27,188.9,66,227.9,113.9,227.9z"/>
+<path id="Alert_Bell" class="push_notification--color2" fill="var(--color-2, #FFFFFF)" d="M166.1,166l-9.4-9.4c-3.2-3.2-4.9-7.4-4.9-11.9v-29.6c0-18.2-12.4-34.2-29.5-38.2
+	c0-0.3,0.1-0.6,0.1-1c0-4.6-3.8-8.4-8.4-8.4s-8.4,3.8-8.4,8.4c0,0.3,0.1,0.6,0.1,1c-16.9,3.8-29.5,18.9-29.5,36.9v30.9
+	c0,4.5-1.8,8.7-4.9,11.9l-9.4,9.4c-1.6,1.6-2.5,3.7-2.5,5.9v0c0,5,4.1,9.1,9.1,9.1h28.7v4.2c0,9.3,7.5,16.8,16.8,16.8
+	s16.8-7.5,16.8-16.8v-4.2h28.7c5,0,9.1-4.1,9.1-9.1v0C168.6,169.8,167.7,167.6,166.1,166L166.1,166z"/>
+</svg>

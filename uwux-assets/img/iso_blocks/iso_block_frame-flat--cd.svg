@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="iso_block_frame-flat--cd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 26 29" style="enable-background:new 0 0 26 29;" xml:space="preserve">
+
+<style type="text/css">
+	/*
+	Classes Used by IE and MSEdge with Mono Parent Color Fallback for IE
+	Chrome, Chromium Edge, and Firefox use the 'fill' Attributes Over the Classes
+	==============================================================================  */
+	.iso_block_frame-flat--cd--color1{
+		fill: #000000;
+		fill: var(--color-1, #000000);
+	}
+	.iso_block_frame-flat--cd--color2{
+		fill: #646464;
+		fill: var(--color-2, #646464);
+	}
+</style>
+<path class="iso_block_frame-flat--cd--color1" fill="var(--color-1, #000000)" d="M13,0l13,7V22l-13,7L0,22V7L13,0z"/>
+<path class="iso_block_frame-flat--cd--color2" fill="var(--color-2, #646464)" d="M13,2l11,6V21l-11,6L2,21V8L13,2z"/>
+</svg>

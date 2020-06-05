@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="whats_new--c" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+
+<style type="text/css">
+	/*
+	Classes Used by IE and MSEdge with Mono Parent Color Fallback for IE
+	Chrome, Chromium Edge, and Firefox use the 'fill' Attributes Over the Classes
+	==============================================================================  */
+	.whats_new--color1{
+		fill: currentColor;
+		fill: var(--color-1, currentColor);
+	}
+
+	.whats_new--color2{
+		fill: #FFFFFF;
+		fill: var(--color-2, #FFFFFF);
+	}
+</style>
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<path id="Speech_Bubble" class="whats_new--color1" fill="var(--color-1, currentColor)" d="M6,2h48c3.3,0,6,2.7,6,6v33c0,3.3-2.7,6-6,6H25.4l-9.7,10.7C15.5,57.9,15.3,58,15,58
+	c-0.1,0-0.2,0-0.4-0.1C14.3,57.8,14,57.4,14,57V47H6c-3.3,0-6-2.7-6-6V8C0,4.7,2.7,2,6,2z"/>
+<path id="Circled_Plus" class="whats_new--color2" fill="var(--color-2, #FFFFFF)" d="M30,7.7c-9.2,0-16.7,7.5-16.7,16.7S20.8,41.1,30,41.1s16.7-7.5,16.7-16.7
+	C46.7,15.2,39.2,7.7,30,7.7z M37.3,27.3h-4.4v4.4c0,1.6-1.3,2.9-2.9,2.9c-1.6,0-2.9-1.3-2.9-2.9v-4.4h-4.4c-1.6,0-2.9-1.3-2.9-2.9
+	c0-1.6,1.3-2.9,2.9-2.9h4.4v-4.4c0-1.6,1.3-2.9,2.9-2.9c1.6,0,2.9,1.3,2.9,2.9v4.4h4.4c1.6,0,2.9,1.3,2.9,2.9
+	C40.2,26,38.9,27.3,37.3,27.3z"/>
+</svg>

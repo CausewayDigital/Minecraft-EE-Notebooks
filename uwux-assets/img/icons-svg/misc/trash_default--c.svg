@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="trash_default--c" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 13 14" style="enable-background:new 0 0 13 14;" xml:space="preserve">
+
+<style type="text/css">
+	/*
+	Classes Used by IE and MSEdge with Mono Parent Color Fallback for IE
+	Chrome, Chromium Edge, and Firefox use the 'fill' Attributes Over the Classes
+	==============================================================================  */
+	.trash_default--color1{
+		fill: currentColor;
+		fill: var(--color-1, currentColor);
+	}
+</style>
+<g class="trash_default--color1" fill="var(--color-1, currentColor)" x="0" y="0">
+	<path d="M12,2h-1h-1H9H8V1V0H7H6H5v1v1H4H3H2H1H0v1v1v1h1v1v1v1v1h1V8V7V6V5h1h1h1h1h1h1h1h1h1v1v1v1v1h1V8V7V6V5h1V4V3
+		V2H12z M6,1h1v1H6V1z M12,4h-1h-1H9H8H7H6H5H4H3H2H1V3h1h1h1h1h1h1h1h1h1h1h1V4z"/>
+	<path d="M4,8V7V6H3v1v1v1h1V8z"/>
+	<path d="M6,8V7V6H5v1v1v1h1V8z"/>
+	<path d="M8,8V7V6H7v1v1v1h1V8z"/>
+	<path d="M10,8V7V6H9v1v1v1h1V8z"/>
+	<path d="M10,10v1v1v1H9H8H7H6H5H4H3v-1v-1v-1V9H2v1v1v1v1v1h1h1h1h1h1h1h1h1h1v-1v-1v-1v-1V9h-1V10z"/>
+	<path d="M4,11v1h1v-1v-1V9H4v1V11z"/>
+	<path d="M6,11v1h1v-1v-1V9H6v1V11z"/>
+	<path d="M8,11v1h1v-1v-1V9H8v1V11z"/>
+</g>
+</svg>

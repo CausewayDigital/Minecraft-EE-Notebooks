@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="hammer--cdc" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 14 19" style="enable-background:new 0 0 14 19;" xml:space="preserve">
+
+<style type="text/css">
+	/*
+	Classes Used by IE and MSEdge with Mono Parent Color Fallback for IE
+	Chrome, Chromium Edge, and Firefox use the 'fill' Attributes Over the Classes
+	==============================================================================  */
+	.hammer_head{
+		fill: #9F9F9F;
+		fill: var(--color-head, #9F9F9F);
+	}
+	.hammer_head-shadow{
+		fill: #747474;
+		fill: var(--color-head-shadow, #747474);
+	}
+	.hammer_head-hilight{
+		fill: #C9C9C9;
+		fill: var(--color-head-hilight, #C9C9C9);
+	}
+	.hammer_handle{
+		fill: #8A5A36;
+		fill: var(--color-handle, #8A5A36);
+	}
+	.hammer_handle-hilight{
+		fill: #E09B5A;
+		fill: var(--color-handle-hilight, #E09B5A);
+	}
+	.hammer_stroke{
+		fill: currentColor;
+		fill: var(--color-stroke, currentColor);
+	}
+</style>
+<path class="hammer_handle" fill="var(--color-handle, #8A5A36)" d="M8.2,16.5v-2v-2v-2v-2v-2v-2v-2v-2H5.7v2v2v2v2v2v2v2v2v2h2.6V16.5z"/>
+<path class="hammer_head" fill="var(--color-head, #9F9F9F)" d="M10.6,2H9.4H8.2H7H5.8H4.6H3.4H2.2H1v2v2v2h1.2h1.2h1.2h1.2H7h1.2h1.2h1.2h1.2H13V6V4V2h-1.2H10.6z"/>
+<path class="hammer_handle-hilight" fill="var(--color-handle-hilight, #E09B5A)" d="M7,1H6v1h1V1z"/>
+<path id="stroke" class="hammer_stroke" fill="var(--color-stroke, currentColor)" d="M13,1h-1h-1h-1H9V0H8H7H6H5v1H4H3H2H1H0v1v1v1v1v1v1v1v1h1h1h1h1h1v1v1v1v1v1v1v1v1v1v1h1h1h1h1v-1v-1v-1v-1v-1
+	v-1v-1v-1v-1V9h1h1h1h1h1V8V7V6V5V4V3V2V1H13z M13,3v1v1v1v1v1h-1h-1h-1H9H8v1v1v1v1v1v1v1v1v1v1H7H6v-1v-1v-1v-1v-1v-1v-1v-1V9V8H5
+	H4H3H2H1V7V6V5V4V3V2h1h1h1h1h1V1h1h1v1h1h1h1h1h1V3z"/>
+<path class="hammer_head" fill="var(--color-head, #9F9F9F)" d="M12,3v1h1V3V2h-1V3z"/>
+<path class="hammer_head-shadow" fill="var(--color-head-shadow, #747474)" d="M12,5v1v1h-1h-1H9H8H7H6H5H4H3H2v1h1h1h1h1h1h1h1h1h1h1h1V7V6V5V4h-1V5z"/>
+<path class="hammer_head-hilight" fill="var(--color-head-hilight, #C9C9C9)" d="M2,6V5V4h1h1h1h1h1h1h1h1h1h1V3V2h-1h-1H9H8H7H6H5H4H3H2H1v1v1v1v1v1h1V6z"/>
+<path class="hammer_head" fill="var(--color-head, #9F9F9F)" d="M2,7H1v1h1V7z"/>
+<path class="hammer_handle-hilight" fill="var(--color-handle-hilight, #E09B5A)" d="M7,16v-1v-1v-1v-1v-1v-1V9V8H6v1v1v1v1v1v1v1v1v1h1V16z"/>
+</svg>
