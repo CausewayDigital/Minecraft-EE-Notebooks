@@ -1,0 +1,11 @@
+{
+    "creatorName" : "Causeway Digital",
+    "title": "Agent_Seed_Farmer",
+    "description": "Welcome to the world of automated farms!",
+    "pages": [
+        "Agent_Seed_Farmer_1_0",
+"Agent_Seed_Farmer_1_1",
+"Agent_Seed_Farmer_1_2",
+"Agent_Seed_Farmer_1_3"
+    ]
+}
