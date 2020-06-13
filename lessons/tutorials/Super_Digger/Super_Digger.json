@@ -1,0 +1,9 @@
+{
+    "creatorName" : "Causeway Digital",
+    "title": "Super_Digger",
+    "description": "Let's build a command that gives you super digging powers!",
+    "pages": [
+        "Super_Digger_1_0",
+        "Super_Digger_1_1"
+    ]
+}
