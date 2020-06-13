@@ -1,0 +1,10 @@
+{
+    "creatorName" : "Causeway Digital",
+    "title": "Agent_Build",
+    "description": "Lets automate creation of objects and structures",
+    "pages": [
+        "Agent_Build_1_0",
+        "Agent_Build_1_1",
+        "Agent_Build_1_2"
+    ]
+}
