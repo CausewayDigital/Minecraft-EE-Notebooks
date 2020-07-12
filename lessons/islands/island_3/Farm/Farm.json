@@ -1,0 +1,10 @@
+{
+  "creatorName": "Causeway Digital",
+  "title": "Farm",
+  "description": "Replant the farm",
+  "pages": [
+    "Farm_1.ipynb",
+    "Farm_2.ipynb",
+    "Farm_3.ipynb"
+  ]
+}
