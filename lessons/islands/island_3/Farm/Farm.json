@@ -3,8 +3,8 @@
   "title": "Farm",
   "description": "Replant the farm",
   "pages": [
-    "Farm_1.ipynb",
-    "Farm_2.ipynb",
-    "Farm_3.ipynb"
+    "Farm_1",
+    "Farm_2",
+    "Farm_3"
   ]
 }
