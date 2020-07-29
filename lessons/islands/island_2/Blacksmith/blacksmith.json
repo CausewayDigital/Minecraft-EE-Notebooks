@@ -4,7 +4,6 @@
   "description": "Sort the ores and retrieve the iron",
   "pages": [
     "blacksmith_1",
-    "blacksmith_2",
-    "blacksmith_3"
+    "blacksmith_2"
   ]
 }
