@@ -1,0 +1,10 @@
+{
+  "creatorName": "Causeway Digital",
+  "title": "Factory",
+  "description": "Repair the airship",
+  "pages": [
+    "Factory_1_1.ipynb",
+    "Factory_1_2.ipynb",
+    "Factory_1_3.ipynb"
+  ]
+}
