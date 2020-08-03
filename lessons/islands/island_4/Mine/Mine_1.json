@@ -3,8 +3,8 @@
   "title": "Mine",
   "description": "Sort the ores",
   "pages": [
-    "Mine_1_1.ipynb",
-    "Mine_1_2.ipynb",
-    "Mine_1_3.ipynb"
+    "Mine_1_1",
+    "Mine_1_2",
+    "Mine_1_3"
   ]
 }
