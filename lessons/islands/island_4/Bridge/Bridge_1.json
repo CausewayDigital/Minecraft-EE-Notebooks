@@ -4,7 +4,6 @@
   "description": "Bridge to the end",
   "pages": [
     "Bridge_1_1.ipynb",
-    "Bridge_1_2.ipynb",
-    "Bridge_1_3.ipynb"
+    "Bridge_1_2.ipynb"
   ]
 }
