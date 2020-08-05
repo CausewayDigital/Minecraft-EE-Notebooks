@@ -14,7 +14,7 @@ def check_ore(direction: str):
 def mark_diamond(direction: str):
     if direction is not "forward":
         say("Direction can only be forward")
-        raise Exception("Direction can oly be forward")
+        raise Exception("Direction can only be forward")
     if check_ore("forward") is not "air":
         agent.place(2, "up")
     else:
@@ -24,7 +24,7 @@ def mark_diamond(direction: str):
 def mark_bin(direction: str):
     if direction is not "forward":
         say("Direction can only be forward")
-        raise Exception("Direction can oly be forward")
+        raise Exception("Direction can only be forward")
     if check_ore("forward") is not "air":
         agent.place(1, "up")
     else:
