@@ -1,8 +1,21 @@
+import time
+
+def check_ore(direction: str):
+    block = agent.inspect(direction)
+    block_data = agent.inspect_data(direction)
+    if block == "stained_hardened_clay":
+        if block_data["data"] == 3:
+            return "diamond_ore"
+        else:
+            return "dirt"
+    else:
+        return block
+
 def mark_diamond(direction: str):
     if direction is not "forward":
         say("Direction can only be forward")
         raise Exception("Direction can oly be forward")
-    if ore_detector("forward") is not "air":
+    if check_ore("forward") is not "air":
         agent.place(2, "up")
     else:
         say("Unable to detect a block!")
@@ -12,19 +25,11 @@ def mark_bin(direction: str):
     if direction is not "forward":
         say("Direction can only be forward")
         raise Exception("Direction can oly be forward")
-    if ore_detector("forward") is not "air":
+    if check_ore("forward") is not "air":
         agent.place(1, "up")
     else:
         say("Unable to detect a block!")
         raise Exception("Unable to detect block")
 
-def check_ore(direction: str):
-    block = agent.inspect(direction)
-    if block == "light_gray_terracotta":
-        return "diamond_ore"
-    elif block == "orange_terracotta":
-        return "iron_ore"
-    else:
-        return block
-
 @user-code
+    time.sleep(0.5)
