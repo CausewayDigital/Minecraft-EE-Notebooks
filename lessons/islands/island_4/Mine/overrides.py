@@ -11,20 +11,14 @@ def check_ore(direction: str):
     else:
         return block
 
-def mark_diamond(direction: str):
-    if direction is not "forward":
-        say("Direction can only be forward")
-        raise Exception("Direction can only be forward")
+def mark_diamond():
     if check_ore("forward") is not "air":
         agent.place(2, "up")
     else:
         say("Unable to detect a block!")
         raise Exception("Unable to detect block")
         
-def mark_bin(direction: str):
-    if direction is not "forward":
-        say("Direction can only be forward")
-        raise Exception("Direction can only be forward")
+def mark_bin():
     if check_ore("forward") is not "air":
         agent.place(1, "up")
     else:
