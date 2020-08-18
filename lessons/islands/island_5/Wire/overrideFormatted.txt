@@ -1,0 +1,1 @@
+def correct_location(location):\n    x = int(location.x)\n    y = int(location.y)-1\n    z = int(location.z)\n    return x,y,z\n\n@user-code
