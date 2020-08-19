@@ -2,6 +2,7 @@ import time
 
 @user-code
 
+
 list_of_numbers = [3, 4, 0, 6, 2, 1]
 
 for bit in list_of_numbers:
