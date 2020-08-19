@@ -4,7 +4,6 @@
   "description": "Lay down the wiring for the circuit",
   "pages": [
     "Wire_1",
-    "Wire_2",
-    "Wire_3"
+    "Wire_2"
   ]
 }
