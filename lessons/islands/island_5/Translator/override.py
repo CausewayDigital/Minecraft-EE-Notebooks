@@ -11,7 +11,7 @@ for bit in list_of_numbers:
     say("Decoded bit as : {}".format(num))
     if num != bit:
         say("Incorrect bit given!")
-        raise Exception("Incorrect bit! Please fix your function")
+        raise Exception("Incorrect bit! Please fix your function, or Reset Bit Input and try again.")
         break
     else:
         world.summon("snow_golem", [1007,150,132])
