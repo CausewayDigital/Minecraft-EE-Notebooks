@@ -5,3 +5,9 @@ def correct_location(location_input):
     return x,y,z
 
 @user-code
+
+# This function forces the code to exit as the code builder can't exit it
+@forever
+def end_task():
+    if world.is_block([1021, 154, 60], "emerald_block"):
+        exit(0)
