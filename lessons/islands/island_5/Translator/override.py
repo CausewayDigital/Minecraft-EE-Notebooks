@@ -1,6 +1,6 @@
 import time
 
-def translate_data(block: str) -> int:
+def decode_infomation(block: str) -> int:
     data_dict = {
         "A": 1,
         "B": 2,
@@ -28,11 +28,11 @@ variable_dict = {
         6: "F",
         7: "G",
         8: "H",
-        9: "I":
+        9: "I"
     }
     
 for bit in list_of_numbers:
-    block = variable_dict.get(agent.inspect_data("forward"), "Z")
+    block = variable_dict.get(agent.inspect_data("forward")["data"], "Z")
     num = decode(block)
     if num == None:
         raise Exception("No number given! Please fix your function, or Reset Bit Input and try again.")
