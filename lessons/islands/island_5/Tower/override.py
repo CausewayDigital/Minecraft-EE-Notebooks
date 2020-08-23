@@ -14,7 +14,7 @@ build_tower()
 time.sleep(2)
 timer = 0
 while timer < 30:
-    # The MC Fnction palces a emerald block if the code is allowed to build the 2 support towers
+    # The MC Function places a emerald block if the code is allowed to build the 2 support towers
     if world.is_block([1027,154,60], "emerald_block"):
         # Tower A
         agent.teleport([1009,159,70], [1009,159,66])
@@ -30,6 +30,7 @@ while timer < 30:
     else:
         time.sleep(1)
         timer = timer + 1
+# If the timer reaches 30(seconds) we time out and say there's an issue
 if timer == 30:
     say("There seems to be an issue with your tower function")
     say("Reset the tower with the builder and start again")

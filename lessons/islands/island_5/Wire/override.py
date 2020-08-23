@@ -9,5 +9,6 @@ def correct_location(location_input):
 # This function forces the code to exit as the code builder can't exit it
 @forever
 def end_task():
+    # If the BP adds an emerald block to this location we know the task is complete
     if world.is_block([1021, 154, 60], "emerald_block"):
         exit(0)
