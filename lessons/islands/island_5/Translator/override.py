@@ -1,6 +1,6 @@
 import time
 
-def decode_infomation(block: str) -> int:
+def decode_information(block: str) -> int:
     data_dict = {
         "A": 1,
         "B": 2,
