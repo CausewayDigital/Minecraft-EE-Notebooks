@@ -4,7 +4,6 @@
   "description": "Find the best plants to survive in space!",
   "pages": [
     "Plant_1",
-    "Plant_2",
-    "Plant_3"
+    "Plant_2"
   ]
 }
