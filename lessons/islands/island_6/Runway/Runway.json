@@ -4,7 +4,6 @@
   "description": "Build the launch area for the rocket",
   "pages": [
     "Runway_1",
-    "Runway_2",
-    "Runway_3"
+    "Runway_2"
   ]
 }
