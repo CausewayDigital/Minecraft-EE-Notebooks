@@ -1,0 +1,1 @@
+def decode(info):\n    detail = decode_information(info)\n    if detail > 9:\n        return 0\n    return\n    # Complete the line of code above!\n
