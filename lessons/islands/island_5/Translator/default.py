@@ -1,6 +1,10 @@
 def decode(info):
-    detail = decode_information(info)
-    if detail > 9:
-        return 0
-    return
-    # Complete the line of code above!
+    if info == "a":
+        return 1
+    elif info == "b":
+        return 2
+    
+    
+    
+    
+    # Add your elif and returns for when info is equal to c or d

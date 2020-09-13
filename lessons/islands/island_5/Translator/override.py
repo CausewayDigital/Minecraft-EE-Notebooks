@@ -30,7 +30,7 @@ for bit in list_of_numbers:
         if counter == 6:  # If we recieve the last bit
             say("Received full all the data, task complete!")
             say("Data: 1, 2, 4, 3, 2, 1")
-            time.sleep(3)  # Delay to allow the player to see the message be for we complete the task
+            time.sleep(1)  # Delay to allow the player to see the message be for we complete the task
         else:
             say("Loading Next Bit")
         world.summon("snow_golem", [1007,150,132])
