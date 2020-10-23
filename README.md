@@ -1,7 +1,7 @@
 # Minecraft Education Edition (Jupyter) Notebooks   
 ![Cover image](img/cover.jpg)
 
-This repository contains the Minecraft Education Edition (Jupyter) Notebooks build by Causeway Digital, in collaboration with the Minecraft Education team.   
+This repository contains the Minecraft Education Edition (Jupyter) Notebooks built by Causeway Digital, in collaboration with the Minecraft Education team.   
 An example of these Notebooks can be found [here](https://notebooks.minecrafteduservices.com/everglade/ci/index.html?lesson=https://meecode.blob.core.windows.net/everglade/content/row/master/islands/island_5/Wire/Wire.json).
 
 ### Content included
