@@ -1,0 +1,14 @@
+{
+  "creatorName": "Causeway Digital",
+  "title": "Logic Gates Guide",
+  "description": "A guide to building Logic Gates within Minecraft",
+  "pages": [
+    "logic_guide_1_intro",
+    "logic_guide_2_not",
+    "logic_guide_3_or",
+    "logic_guide_4_nor",
+    "logic_guide_5_and",
+    "logic_guide_6_nand",
+    "logic_guide_7_xor"
+  ]
+}
